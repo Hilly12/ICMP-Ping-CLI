@@ -1,4 +1,4 @@
-# Ping CLI -
+# Ping Command Line Interface
 Simulates a Ping to a host by sending continuous ICSM echo requests to test its reachability.
 <br />
 To run:
