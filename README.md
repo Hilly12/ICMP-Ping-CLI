@@ -1,5 +1,5 @@
 # Ping Command Line Interface
-Simulates a Ping to a host by continuously sending it ICMP echo requests.
+Simulates a Ping to a host by continuously sending it ICMP echo requests. Created as part of Cloudflare Systems Intern application.
 <br />
 To run:
 <br />
