@@ -1,5 +1,5 @@
 # Ping Command Line Interface
-Simulates a Ping to a host by sending continuous ICSM echo requests to test its reachability.
+Simulates a Ping to a host by continuously sending it ICMP echo requests.
 <br />
 To run:
 <br />
